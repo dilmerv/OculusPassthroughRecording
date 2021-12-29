@@ -40,3 +40,8 @@ These are few of the commands to use when [scrcpy](https://github.com/Genymobile
 |1440p(2K)|20 Mbps|30 Mbps|
 |1080p|10 Mbps|15 Mbps|
 |720p|6.5 Mbps|9.5 Mbps|
+
+## Helpful Overall Settings
+<img src="https://github.com/dilmerv/OculusPassthroughRecording/blob/master/images/settings.jpg" width="250">
+
+Credits and huge thanks to [Greg Madison](https://twitter.com/GregMadison) for providing the helpful settings above !
